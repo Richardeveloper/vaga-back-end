@@ -1,5 +1,5 @@
-<h1>Projeto para vaga desenvolvedor back-end (04/03/2021)</h1>
-<p>API Rest desenvolvida com <b>Java</b> e <b>Spring</b> como teste para vaga de desenvolvedor back-end. Com seguintes requisitos: </p>
+<h1>Projeto para vaga desenvolvedor back-end</h1>
+<p>API Rest desenvolvida com <b>Java</b> e <b>Spring</b> como teste para vaga de desenvolvedor back-end, com prazo de <b>03 dias</b> para ser entregue. Com seguintes requisitos: </p>
 
 <ul>
 <li>Criar uma web api para cadastro de veículos e proprietários.</li>
